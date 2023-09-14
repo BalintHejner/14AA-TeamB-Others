@@ -1,4 +1,7 @@
 {
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelZoom": true,
+  "files.autoSave": "afterDelay",
   "git.autofetch": true,
   "git.autofetchPeriod": 60,
   "git.pruneOnFetch": true,
